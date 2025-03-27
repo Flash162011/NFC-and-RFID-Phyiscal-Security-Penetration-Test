@@ -200,8 +200,9 @@ A0 A1 A2 A3 A4 A5  FF 07 80 69  00 00 00 00 00 00
   7. **Final Verification**: Reader verifies the card’s response to complete the authentication.
   
   
-  
+<div style="text-align: center;">
   <img src="auth-with-reader.png" alt="image-20250325142954365" style="zoom:50%;" />
+</div>
   
   ```mermaid
   sequenceDiagram
