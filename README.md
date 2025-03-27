@@ -14,7 +14,7 @@ This repository provides in-depth technical references, diagrams, and practical 
 - ✅ Magic card Capabilities.
 - ✅ mfkey32 and Flipper Zero usage for key extraction
 - ✅ Physical Security Assessment Tools
-- ✅ NFC Relay Attack
+- ✅ NFC Relay Attack Explained
 
 📚 Ideal for:
 - Penetration testers
