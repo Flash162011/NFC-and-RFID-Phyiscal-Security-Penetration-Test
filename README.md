@@ -8,10 +8,6 @@
 
 <div style="page-break-after: always;"></div>
 
-[TOC]
-
-<div style="page-break-after: always;"></div>
-
 # Physical Security: NFC and RFID Technologies
 
 ## Document Properties
@@ -77,7 +73,7 @@
   - **SAK (Select Acknowledge)**: Indicates the card type and its capabilities.
   - **ASAQ (Access Settings and Access Qualifications)**: Uses bits (C1, C2, C3) to set permissions for each data block.
   
-  <img src="C:\Users\Mohamed Fouad\AppData\Roaming\Typora\typora-user-images\image-20250228095255577.png" alt="image-20250228095255577" style="zoom: 67%;" />
+  <img src="mifare-structure.png" alt="image-20250228095255577" style="zoom: 67%;" />
 
 ### Sector Trailer in MIFARE Classic Cards
 
