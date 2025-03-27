@@ -81,7 +81,7 @@
 
 The **sector trailer** is a special data block within each sector of a **MIFARE Classic card** that **stores access control settings and cryptographic keys** used for authentication. It is crucial for defining how data in that sector can be accessed, modified, or protected.
 
-![image-20250303115507903](C:\Users\Mohamed Fouad\AppData\Roaming\Typora\typora-user-images\image-20250303115507903.png)
+![image-20250303115507903](mifare-card.png)
 
 ------
 
