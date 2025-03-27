@@ -201,7 +201,7 @@ A0 A1 A2 A3 A4 A5  FF 07 80 69  00 00 00 00 00 00
   
   
   
-  <img src="C:\Users\Mohamed Fouad\AppData\Roaming\Typora\typora-user-images\image-20250325142954365.png" alt="image-20250325142954365" style="zoom:50%;" />
+  <img src="auth-with-reader.png" alt="image-20250325142954365" style="zoom:50%;" />
   
   ```mermaid
   sequenceDiagram
