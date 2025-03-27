@@ -73,7 +73,7 @@
   - **SAK (Select Acknowledge)**: Indicates the card type and its capabilities.
   - **ASAQ (Access Settings and Access Qualifications)**: Uses bits (C1, C2, C3) to set permissions for each data block.
   
-  <img src="mifare-structure.png" alt="image-20250228095255577" style="zoom: 67%;" />
+  ![image-20250303115507903](mifare-card.png)
 
 ### Sector Trailer in MIFARE Classic Cards
 
@@ -81,7 +81,7 @@
 
 The **sector trailer** is a special data block within each sector of a **MIFARE Classic card** that **stores access control settings and cryptographic keys** used for authentication. It is crucial for defining how data in that sector can be accessed, modified, or protected.
 
-![image-20250303115507903](mifare-card.png)
+<img src="mifare-structure.png" alt="image-20250228095255577" style="zoom: 67%;" />
 
 ------
 
